@@ -1,0 +1,3 @@
+// HTML code validator for every html file
+
+npm exec html-validate *.html
